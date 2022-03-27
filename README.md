@@ -68,14 +68,20 @@ Pro will help support the project, let you customize some things a bit more, and
 
 
 ## WPDistillery
+<p align="center">
+  <img src="http://files.flurinduerst.ch/wpdistillery/wpdistillery_bright.png" />
+</p>
 
-![WPDistillery Logo](http://files.flurinduerst.ch/wpdistillery/wpdistillery_bright.png)
+
 
 WPDistillery is an amazing tool by [Flurin Dürst](https://twitter.com/flurinduerst) that kickstarts your WordPress installation on Scotch Box. It is actively maintained, has lots of features and gets you started in less than 5 minutes.
 
 All you have to do is clone the repo, customize the configuration file to your needs, and <b>vagrant up</b>. WPDistillery will do the rest:
 
-![WPDistillery Preview](http://files.flurinduerst.ch/wpdistillery/wpdistillery_terminal_small.png)
+<p align="center">
+  <img src="http://files.flurinduerst.ch/wpdistillery/wpdistillery_terminal_small.png" />
+</p>
+
 
 To get started, visit [wpdistillery.org](https://wpdistillery.org) or check out the [Documentation](https://github.com/flurinduerst/WPDistillery).
 
